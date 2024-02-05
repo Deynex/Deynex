@@ -1,4 +1,4 @@
-👋 Hi, I’m @Deynex \n
+👋 Hi, I’m @Deynex
 👀 I’m interested in Mechatronics!
 🌱 I’m currently learning nanoFramewrok.
 💞️ I’m looking to collaborate on...
