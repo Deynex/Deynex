@@ -5,20 +5,20 @@ Soy un apasionado ingeniero en mecatrónica con experiencia en diseño, desarrol
 - **Programación**: C/C++, C#, MATLAB 
 - **Diseño CAD**: Fusion360, AutoCAD
 - **Control y Automatización**: PLC, LabVIEW
-- **Electrónica**: Diseño de circuitos, PCB, Microcontroladores ( Arduino, ESP32 )
+- **Electrónica**: Diseño de circuitos, PCB, Microcontroladores (Arduino, ESP32)
 
 ### Proyectos Destacados
 1. **Smart LED**:
-   - Descripción: Diseño y desarrollo de un sistema para el encendido/apagado de un LED mediante una pagina web y control remoto.
+   - Descripción: Diseño y desarrollo de un sistema para el encendido/apagado de un LED mediante una página web y control remoto.
    - Tecnologías: ESP32, ESP-IDF, JS, CSS, HTML, WebSocket
 
 ### Educación
-- **Ingeniería en Mecatrónica** - Facultad de ingenieria UADY
+- **Ingeniería en Mecatrónica** - Facultad de Ingeniería UADY
   - Fechas: 2021 - 2026
 
 ### Contacto
 - **Correo Electrónico**: JorgeCano.Professional@outlook.com
-- **LinkedIn**: (https://www.linkedin.com/in/jorge-carlos-cano-caldera-2a04a6284/)
+- **LinkedIn**: [Jorge Carlos Cano Caldera](https://www.linkedin.com/in/jorge-carlos-cano-caldera-2a04a6284/)
 
 ### Hobbies e Intereses
 - Robótica
