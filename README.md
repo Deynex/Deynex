@@ -7,10 +7,10 @@ Soy un (futuro) ingeniero en mecatrónica con experiencia en diseño, desarrollo
 - **Control y Automatización**: PLC, LabVIEW
 - **Electrónica**: Diseño de circuitos, PCB, Microcontroladores (Arduino, ESP32)
 
-/*### Proyectos Destacados
-1. **Smart LED**:
-   - Descripción: Diseño y desarrollo de un sistema para el encendido/apagado de un LED mediante una página web y control remoto.
-   - Tecnologías: ESP32, ESP-IDF, JS, CSS, HTML, WebSocket*/
+//### Proyectos Destacados
+//1. **Smart LED**:
+//   - Descripción: Diseño y desarrollo de un sistema para el encendido/apagado de un LED mediante una página web y control remoto.
+//   - Tecnologías: ESP32, ESP-IDF, JS, CSS, HTML, WebSocket
 
 ### Educación
 - **Ingeniería en Mecatrónica** - Facultad de Ingeniería UADY
