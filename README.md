@@ -1,5 +1,5 @@
 ### Acerca de mí
-Soy un apasionado ingeniero en mecatrónica con experiencia en diseño, desarrollo e implementación de sistemas mecatrónicos. Mi objetivo es integrar las últimas tecnologías en automatización, robótica y control para resolver problemas complejos y mejorar procesos industriales.
+Soy un (futuro) ingeniero en mecatrónica con experiencia en diseño, desarrollo e implementación de sistemas mecatrónicos. Mi objetivo es integrar las últimas tecnologías en automatización, robótica y control para resolver problemas complejos y mejorar procesos industriales.
 
 ### Habilidades Técnicas
 - **Programación**: C/C++, C#, MATLAB 
@@ -7,14 +7,14 @@ Soy un apasionado ingeniero en mecatrónica con experiencia en diseño, desarrol
 - **Control y Automatización**: PLC, LabVIEW
 - **Electrónica**: Diseño de circuitos, PCB, Microcontroladores (Arduino, ESP32)
 
-### Proyectos Destacados
+/*### Proyectos Destacados
 1. **Smart LED**:
    - Descripción: Diseño y desarrollo de un sistema para el encendido/apagado de un LED mediante una página web y control remoto.
-   - Tecnologías: ESP32, ESP-IDF, JS, CSS, HTML, WebSocket
+   - Tecnologías: ESP32, ESP-IDF, JS, CSS, HTML, WebSocket*/
 
 ### Educación
 - **Ingeniería en Mecatrónica** - Facultad de Ingeniería UADY
-  - Fechas: 2021 - 2026
+  - Duración: 2021 - 2026
 
 ### Contacto
 - **Correo Electrónico**: JorgeCano.Professional@outlook.com
@@ -25,7 +25,6 @@ Soy un apasionado ingeniero en mecatrónica con experiencia en diseño, desarrol
 - Inteligencia Artificial
 - IoT
 - Calistenia
-- Viajar
 
 ---
 
