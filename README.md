@@ -8,9 +8,9 @@ Soy un (futuro) ingeniero en mecatrónica con experiencia en diseño, desarrollo
 - **Electrónica**: Diseño de circuitos, PCB, Microcontroladores (Arduino, ESP32)
 
 ### Proyectos Destacados
-1. **Smart LED**:
-   - Descripción: Diseño y desarrollo de un sistema para el encendido/apagado de un LED mediante una página web y control remoto.
-   - Tecnologías: ESP32, ESP-IDF, JS, CSS, HTML, WebSocket
+1. **NAT ROUTER LITE**:
+   - Descripción: Crea un AP en el ESP32 donde puede guardarse el ssid y contraseña de la red wifi local para conectarse a ella. Cualquier dispositivo conectado al AP tendra acceso a internet.
+   - Tecnologías: ESP32, ESP-IDF, JS, CSS, HTML
 
 ### Educación
 - **Ingeniería en Mecatrónica** - Facultad de Ingeniería UADY
