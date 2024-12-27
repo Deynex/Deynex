@@ -9,7 +9,7 @@ Soy un (futuro) ingeniero en mecatrónica con experiencia en diseño, desarrollo
 
 ### Proyectos Destacados
 1. **NAT ROUTER LITE**:
-   - Descripción: Crea un AP en el ESP32 donde puede guardarse el ssid y contraseña de la red wifi local para conectarse a ella. Cualquier dispositivo conectado al AP tendra acceso a internet.
+   - Descripción: AP en el ESP32 donde puede guardarse el ssid y contraseña de la red wifi local para conectarse a ella. Cualquier dispositivo conectado al AP tendra acceso a internet.
    - Tecnologías: ESP32, ESP-IDF, JS, CSS, HTML
 
 ### Educación
