@@ -20,12 +20,6 @@ Soy un (futuro) ingeniero en mecatrónica con experiencia en diseño, desarrollo
 - **Correo Electrónico**: JorgeCano.Professional@outlook.com
 - **LinkedIn**: [Jorge Carlos Cano Caldera](https://www.linkedin.com/in/jorge-carlos-cano-caldera-2a04a6284/)
 
-### Hobbies e Intereses
-- Robótica
-- Inteligencia Artificial
-- IoT
-- Calistenia
-
 ---
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o si quieres colaborar en algún proyecto.
