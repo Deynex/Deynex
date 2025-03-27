@@ -5,7 +5,7 @@ Soy un (futuro) ingeniero en mecatrónica con experiencia en diseño, desarrollo
 - **Programación**: C/C++, C#, MATLAB 
 - **Diseño CAD**: Fusion360, AutoCAD
 - **Control y Automatización**: PLC, LabVIEW
-- **Electrónica**: Diseño de circuitos, PCB, Microcontroladores (Arduino, ESP32)
+- **Electrónica**: Diseño de circuitos y PCB (Altium Designer), Microcontroladores (STM32, ESP32, PSoC)
 
 ### Proyectos Destacados
 1. **NAT ROUTER LITE**:
